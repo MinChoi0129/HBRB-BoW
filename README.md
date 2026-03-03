@@ -1,4 +1,4 @@
-# DBoW2
+# HBRB-BoW
 
 A C++ library for converting and indexing image features into a bag-of-words representation.
 Modified based on the [original DBoW2](https://github.com/dorian3d/DBoW2).
