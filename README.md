@@ -19,7 +19,7 @@ To train a vocabulary yourself, build and run `executable/create_vocabulary.cpp`
 |-------------|-------------|
 | `0` | Default DBoW2 k-means |
 | `1` | HBRB-KMeans (local BRB) |
-| `2` | HBRB-KMeans (global BRB, proposed algorithm) |
+| `2` | HBRB-KMeans (global BRB, **proposed algorithm**) |
 
 > **Note**: The training process requires a large amount of system memory. Please ensure sufficient memory is available before running.
 
@@ -32,13 +32,13 @@ Vocabulary files are saved in `.bin` binary format for efficient saving and load
 The exact name of the training dataset is **Bovisa_2008_09_01_Frontal**.
 Due to the inconvenience of accessing the original dataset, we provide it directly. Please request it via the email below.
 
-📧 `wjdchs0129@gnu.ac.kr`
+[![Email](https://img.shields.io/badge/Email-wjdchs0129%40gnu.ac.kr-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:wjdchs0129@gnu.ac.kr)
 
 ## Citation
 
 If you need to cite this work, please refer to the link or bibtex below.
 
-📄 [arXiv link (coming soon)](https://arxiv.org/)
+[![arXiv](https://img.shields.io/badge/arXiv-coming_soon-b31b1b?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/)
 
 ```bibtex
 @ARTICLE{HBRB2025,
