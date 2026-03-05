@@ -38,7 +38,7 @@ Due to the inconvenience of accessing the original dataset, we provide it direct
 
 If you need to cite this work, please refer to the link or bibtex below.
 
-[![arXiv](https://img.shields.io/badge/arXiv-2305.06500v2-b31b1b.svg)]([https://arxiv.org/](https://arxiv.org/pdf/2603.04144))
+[![arXiv](https://img.shields.io/badge/arXiv-2603.04144-b31b1b.svg)]([https://arxiv.org/](https://arxiv.org/pdf/2603.04144))
 
 ```bibtex
 @misc{2603.04144,
