@@ -1,5 +1,7 @@
 # HBRB-BoW
 
+[![arXiv](https://img.shields.io/badge/arXiv-2603.04144-b31b1b.svg)](https://arxiv.org/abs/2603.04144)
+
 A C++ library for converting and indexing image features into a bag-of-words representation.
 Modified based on the [original DBoW2](https://github.com/dorian3d/DBoW2).
 
@@ -37,8 +39,6 @@ Due to the inconvenience of accessing the original dataset, we provide it direct
 ## Citation
 
 If you need to cite this work, please refer to the link or bibtex below.
-
-[![arXiv](https://img.shields.io/badge/arXiv-2603.04144-b31b1b.svg)]([https://arxiv.org/](https://arxiv.org/pdf/2603.04144))
 
 ```bibtex
 @misc{2603.04144,
