@@ -38,13 +38,13 @@ Due to the inconvenience of accessing the original dataset, we provide it direct
 
 If you need to cite this work, please refer to the link or bibtex below.
 
-[![arXiv](https://img.shields.io/badge/arXiv-coming_soon-b31b1b?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/)
+[![arXiv](https://img.shields.io/badge/arXiv-coming_soon-b31b1b?style=flat-square&logo=arxiv&logoColor=white)]([https://arxiv.org/](https://arxiv.org/pdf/2603.04144))
 
 ```bibtex
-@ARTICLE{HBRB2025,
-  author={Author Name},
-  journal={Journal/Conference Name},
-  title={Paper Title},
-  year={2025}
+@misc{2603.04144,
+Author = {Minjae Lee and Sang-Min Choi and Gun-Woo Kim and Suwon Lee},
+Title = {HBRB-BoW: A Retrained Bag-of-Words Vocabulary for ORB-SLAM via Hierarchical BRB-KMeans},
+Year = {2026},
+Eprint = {arXiv:2603.04144},
 }
 ```
